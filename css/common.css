@@ -1,0 +1,8 @@
+.main {
+    display: block;
+    clear: both;
+    width: 1080px !important;
+    margin: auto;
+    background: transparent;
+    position: relative;
+}
